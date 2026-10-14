@@ -1,0 +1,366 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Astro",
+      "category": [
+        "Toons", "Mains"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bassie",
+      "category": [
+        "Toons", "Mains", "Easter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blot",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Bobette",
+      "category": [
+        "Toons", "Mains", "Christmas"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Boxten",
+      "category": [
+        "Toons", "Commons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Brightney",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Brusha",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Coal",
+      "category": [
+        "Toons", "Rares", "Christmas"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Cocoa",
+      "category": [
+        "Toons", "Rares", "Easter"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Connie",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Cosmo",
+      "category": [
+        "Toons", "Commons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Eclipse",
+      "category": [
+        "Toons", "Rares", "Halloween"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Eggson",
+      "category": [
+        "Toons", "Commons", "Easter"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Finn",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Flutter",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Flyte",
+      "category": [
+        "Toons", "Uncommons", "Easter"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Gigi",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Ginger",
+      "category": [
+        "Toons", "Uncommons", "Christmas"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Glisten",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Goob",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Gourdy",
+      "category": [
+        "Toons", "Mains", "Halloween"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Looey",
+      "category": [
+        "Toons", "Commons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Pebble",
+      "category": [
+        "Toons", "Mains"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Poppy",
+      "category": [
+        "Toons", "Commons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Razzle & Dazzle",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Ribecca",
+      "category": [
+        "Toons", "Halloween"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Rodger",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Rudie",
+      "category": [
+        "Toons", "Christmas"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Scraps",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Shelly",
+      "category": [
+        "Toons", "Mains"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shrimpo",
+      "category": [
+        "Toons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Soulvester",
+      "category": [
+        "Toons", "Halloween"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Sprout",
+      "category": [
+        "Toons", "Mains"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Squirm",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Teagan",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Tisha",
+      "category": [
+        "Toons", "Commons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Toodles",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Vee",
+      "category": [
+        "Toons", "Mains"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Waxwell",
+      "category": [
+        "Toons", "Rares"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Yatta",
+      "category": [
+        "Toons", "Uncommons"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+	  "count": 25,
+      "name": "Progressive Floor",
+	  "classification_count": {
+        "progression": 15,
+	  "useful + progression": 10},
+      "category": [
+        "Research"
+      ]
+	},
+    {
+	  "count": 3,
+      "name": "Progressive Twisteds",
+	  "classification_count": {
+        "progression": 3},
+      "category": [
+        "Research", "Progressive Twisteds"
+      ]
+    },
+    {
+	  "count": 3,
+      "name": "Progressive Toons",
+	  "classification_count": {
+        "progression": 3},
+      "category": [
+        "Research", "Progressive Toons"
+      ]
+    },
+    {
+      "count": 1,
+      "name": "Active Abilities",
+      "category": ["Research"],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Dandy's Shop",
+      "category": ["Research"],
+      "useful": true
+    }
+  ]
+}

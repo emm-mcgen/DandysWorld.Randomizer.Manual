@@ -1,0 +1,46 @@
+KNOWN ISSUES:
+
+
+KNOWN CONCENRS:
+
+
+FUTURE IDEAS:
+- Progressive Items as an option
+- All 57 trinkets as useful / junk items
+  * Would need extra locations
+- "Mastery Quests" themed around each character
+
+---
+
+v0.4
++ Added Progressive Research as an option to lock Twisted encounters behind their rarity tiers
++ Added Progressive Toons which does the same, but for playable Toons
++ Added a formatted options file with annotated descriptions of all custom options
+* Tidied up names, made categorization a little prettier
+
+---
+
+v0.3
++ Added options to toggle the three groups of holiday toons for players who don't own them
+* Separated goal locations from item locations; all 20 Floors and 30 Twisteds now track as expected
+* Tweaked Progressive Floor display for clarity; player now starts with 1 which grants access to Floor 1
+* Tidied up item and location categories
+
+---
+
+v0.2
++ Starting Inventory: 1 Random Non-Main Toon
++ Added basic logic to make goaling possible most of the time
+* Fixed some item classifications for more consistent generation
+- Unable to change starting inventory with YAML
+
+---
+
+v0.1
++ Items: 28 Toons, 12 Event Toons, 20 Floors, Active Abilities, and Dandy's Shop
++ Locations: 30 Twisteds, 20 Floors, 24 Abilities, 4 Multiplayer Abilities
++ Filler: Tapes
++ Goals: Survive Twisted Dandy, Survive Twisted Dyle, Complete Floor 20
+* Categorized Items and Locations for future logic generation
+- Unplayable due to minimal logic
+- Unplayable without all 40 Toons unlocked on the player's account

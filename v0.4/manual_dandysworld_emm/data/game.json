@@ -1,0 +1,17 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "DandysWorld",
+  "creator": "Emm",
+  "death_link": true,
+  "filler_item_name": "Tapes",
+  "starting_items": [
+    {
+	  "items": ["Progressive Floor"],
+	  "random": 1
+	},
+    {
+      "item_categories": ["Commons"],
+      "random": 1
+    }
+  ]
+}

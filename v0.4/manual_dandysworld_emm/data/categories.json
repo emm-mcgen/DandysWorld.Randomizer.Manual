@@ -1,0 +1,41 @@
+{
+"Christmas": {
+  "hidden": true,
+  "yaml_option": ["enable_christmas_toons"]
+},
+"Easter": {
+  "hidden": true,
+  "yaml_option": ["enable_easter_toons"]
+},
+"Halloween": {
+  "hidden": true,
+  "yaml_option": ["enable_halloween_toons"]
+},
+"Multiplayer": {
+  "hidden": true,
+  "yaml_option": ["enable_multiplayer_abilities"]
+},
+
+"Progressive Twisteds": {
+  "hidden": true,
+  "yaml_option": ["enable_progressive_twisteds"]
+},
+
+"Progressive Toons": {
+    "hidden": true,
+	"yaml_option": ["enable_progressive_toons"]
+},
+
+"Mains": {
+  "hidden": true
+},
+"Rares": {
+  "hidden": true
+},
+"Uncommons": {
+  "hidden": true
+},
+"Commons": {
+  "hidden": true
+}
+}

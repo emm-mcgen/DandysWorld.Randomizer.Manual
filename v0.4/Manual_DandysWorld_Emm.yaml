@@ -1,0 +1,52 @@
+﻿name: Player
+description: Default Dandy's World Template
+game: Manual_DandysWorld_Emm
+requires:
+  version: 0.6.8 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_DandysWorld_Emm:
+  progression_balancing: normal
+  accessibility: full
+
+  goal:
+    # The end goal required to beat the game.
+    # 
+    # **Final Floor:**
+    # Complete Floor 20 (Eventually, you will be able to set your own custom goal floor!)
+    # 
+    # **Survive Twisted Dandy:**
+    # Complete a floor with Twisted Dandy present
+    # 
+    # **Survive Twisted Dyle:**
+    # Choose the "TIME'S UP" card during a run and complete Twisted Dyle's floor
+    final floor: 1
+    survive twisted dandy: 0
+    survive twisted dyle: 0
+
+  # Determines if Twisted encounters should be locked behind a new item (Progressive Twisteds). Uncommons require 1, Rares require 2, Mains and Lethals require 3.
+  enable_progressive_twisteds: true
+
+  # Determines if Toon access should be locked behind a new item (Progressive Toons). Uncommons require 1, Rares require 2, Mains require 3.
+  enable_progressive_toons: true
+
+  # Determines if Christmas toons and their abilities should be in the item pool. Enable only if you own all four Christmas Toons.
+  enable_christmas_toons: false
+  
+  # Determines if Easter toons and their abilities should be in the item pool. Enable only if you own all four Easter Toons.
+  enable_easter_toons: false
+  
+  # Determines if Halloween toons and their abilities should be in the item pool. Enable only if you own all four Halloween Toons.
+  enable_halloween_toons: false
+  
+  # Determines if multiplayer-exclusive abilities (like Cosmo's healing ability) should be in the item pool. Enable only if you're playing with friends or queueing for matchmaking.
+  enable_multiplayer_abilities: false
+
+  death_link: false
+  local_items: []
+  non_local_items: []
+  start_inventory: {}
+  start_inventory_from_pool: {}
+  start_hints: []
+  start_location_hints: []
+  exclude_locations: []
+  priority_locations: []

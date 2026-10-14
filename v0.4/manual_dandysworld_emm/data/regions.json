@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Lobby": {
+    "starting": true,
+    "connects_to": [
+      "Main Twisteds"
+    ],
+    "requires": ""
+  },
+  "Main Twisteds": {
+    "connects_to": [
+      "Dyle's Floor"
+    ],
+    "starting": false,
+    "requires": "|Progressive Floor:10|"
+  },
+  "Dyle's Floor": {
+    "connects_to": [],
+    "requires": "|Progressive Floor:15| AND (|@Toons:3| OR |@Mains|)"
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Twisted Astro",
+      "region": "Main Twisteds",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Twisted Blot",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Boxten",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Brightney",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Brusha",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Connie",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Cosmo",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Finn",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Flutter",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Gigi",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Glisten",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Goob",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Looey",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Pebble",
+      "region": "Main Twisteds",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Twisted Poppy",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Razzle & Dazzle",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Rodger",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Scraps",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Shelly",
+      "region": "Main Twisteds",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Twisted Shrimpo",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Sprout",
+      "region": "Main Twisteds",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Twisted Squirm",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Teagan",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Tisha",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Toodles",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:1|)}"
+    },
+    {
+      "name": "Twisted Vee",
+      "region": "Main Twisteds",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Twisted Waxwell",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:2|)}"
+    },
+    {
+      "name": "Twisted Yatta",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Twisted Dandy",
+      "region": "Main Twisteds",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Survive Twisted Dandy",
+      "region": "Main Twisteds",
+      "victory": true,
+      "category": [
+        "Goal"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+	{
+      "name": "Twisted Dyle",
+      "region": "Dyle's Floor",
+      "category": [
+        "Twisted Encounters"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Survive Twisted Dyle",
+      "region": "Dyle's Floor",
+      "victory": true,
+      "category": [
+        "Goal"
+      ],
+      "requires": "{OptOne(|Progressive Twisteds:3|)}"
+    },
+    {
+      "name": "Floor 1",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Floor 2",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:2|"
+    },
+    {
+      "name": "Floor 3",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:3|"
+    },
+    {
+      "name": "Floor 4",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:4|"
+    },
+    {
+      "name": "Floor 5",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:5|"
+    },
+    {
+      "name": "Floor 6",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:6|"
+    },
+    {
+      "name": "Floor 7",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:7|"
+    },
+    {
+      "name": "Floor 8",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:8|"
+    },
+    {
+      "name": "Floor 9",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:9|"
+    },
+    {
+      "name": "Floor 10",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:10|"
+    },
+    {
+      "name": "Floor 11",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:11|"
+    },
+    {
+      "name": "Floor 12",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:12|"
+    },
+    {
+      "name": "Floor 13",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:13|"
+    },
+    {
+      "name": "Floor 14",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:14|"
+    },
+    {
+      "name": "Floor 15",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:15|"
+    },
+    {
+      "name": "Floor 16",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:16|"
+    },
+    {
+      "name": "Floor 17",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:17|"
+    },
+    {
+      "name": "Floor 18",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:18|"
+    },
+    {
+      "name": "Floor 19",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:19|"
+    },
+    {
+      "name": "Floor 20",
+      "category": [
+        "Floor Completions"
+      ],
+      "requires": "|Progressive Floor:20|"
+    },
+    {
+      "name": "Final Floor",
+	  "victory": true,
+      "category": [
+        "Goal"
+      ],
+      "requires": "|Progressive Floor:20|"
+    },
+    {
+      "name": "Astro - Nap Time",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Astro| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Bassie - Springful Sharing",
+      "category": [
+        "Abilities",
+        "Easter"
+      ],
+      "requires": "|Bassie| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Blot - Blot Jr.",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Blot| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Bobette - Festive Packaging",
+      "category": [
+        "Abilities",
+        "Christmas"
+      ],
+      "requires": "|Bobette| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Brightney - Night Light",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Brightney| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Brusha - Artistic Inspiration",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Brusha| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Coal - Scout",
+      "category": [
+        "Abilities",
+        "Christmas"
+      ],
+      "requires": "|Coal| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Cocoa - Bonbon",
+      "category": [
+        "Abilities",
+        "Easter"
+      ],
+      "requires": "|Cocoa| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Connie - Haunting Escape",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Connie| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Flutter - Floaty Dash",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Flutter| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Flyte - Gust",
+      "category": [
+        "Abilities",
+        "Easter"
+      ],
+      "requires": "|Flyte| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Gigi - Surprise!",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Gigi| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Glisten - Reflection",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Glisten| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Gourdy - Trick or Treat",
+      "category": [
+        "Abilities",
+        "Halloween"
+      ],
+      "requires": "|Gourdy| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Pebble - Speak!",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Pebble| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Rudie - Antler Charge",
+      "category": [
+        "Abilities",
+        "Christmas"
+      ],
+      "requires": "|Rudie| AND |Active Abilities|"
+    },
+    {
+      "name": "Scraps - Crafty Grapple",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Scraps| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Soulvester - Soul Shield",
+      "category": [
+        "Abilities",
+        "Halloween"
+      ],
+      "requires": "|Soulvester| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Squirm - Distressed Delicacy",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Squirm| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Teagan - Tea Time",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Teagan| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Tisha - Tidy Up!",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Tisha| AND |Active Abilities|"
+    },
+    {
+      "name": "Toodles - Beginner's Luck",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Toodles| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Vee - Mic Check",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Vee| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Waxwell - Ignite",
+      "category": [
+        "Abilities"
+      ],
+      "requires": "|Waxwell| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Cosmo - Sharing is Caring",
+      "category": [
+	    "Abilities",
+        "Multiplayer"
+      ],
+      "requires": "|Cosmo| AND |Active Abilities|"
+    },
+    {
+      "name": "Ginger - Baked with Care!",
+      "category": [
+	    "Abilities",
+        "Multiplayer",
+        "Christmas"
+      ],
+      "requires": "|Ginger| AND |Active Abilities| AND {OptOne(|Progressive Toons:1|)}"
+    },
+    {
+      "name": "Goob - Hug!",
+      "category": [
+	    "Abilities",
+        "Multiplayer"
+      ],
+      "requires": "|Goob| AND |Active Abilities| AND {OptOne(|Progressive Toons:2|)}"
+    },
+    {
+      "name": "Shelly - Inspiration",
+      "category": [
+	    "Abilities",
+        "Multiplayer"
+      ],
+      "requires": "|Shelly| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    },
+    {
+      "name": "Sprout - Baked Sweets",
+      "category": [
+	    "Abilities",
+        "Multiplayer"
+      ],
+      "requires": "|Sprout| AND |Active Abilities| AND {OptOne(|Progressive Toons:3|)}"
+    }
+  ]
+}
